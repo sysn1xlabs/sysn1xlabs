@@ -1,16 +1,18 @@
-## Hi there 👋
+# sysn1xlabs
 
-<!--
-**sysn1xlabs/sysn1xlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical tools for IT support, cybersecurity, and automation.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [NodeNix](https://github.com/sysn1xlabs/NodeNix)
+A Windows diagnostics and IT support toolkit with offline dashboards,
+guided troubleshooting, and privacy-aware support exports.
+
+## Tools & interests
+
+- Python, PowerShell, Windows, and Linux
+- Endpoint diagnostics and IT support
+- Cybersecurity labs and security analysis
+- Automation that simplifies everyday technical work
+
+Build. Investigate. Improve.
